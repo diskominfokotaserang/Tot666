@@ -7,6 +7,7 @@
 ```sh
 git clone https://github.com/diskominfokotaserang/Tot666/
 cd Tot666
+sudo pip2 install -r requirements.txt or sudo pip install -r requirements.txt
 chmod +x tot666.py
 ```
 
